@@ -64,7 +64,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"amphitheatre.json#entry-from-outside"
+                 "value":"AMA.json#entry-from-outside"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":74,
-         "name":"exit-from-amp",
+         "name":"exit-from-AMA",
          "opacity":1,
          "properties":[
                 {
