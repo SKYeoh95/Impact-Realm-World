@@ -464,6 +464,17 @@
         }, 
         {
          "draworder":"topdown",
+         "id":75,
+         "name":"Leaves animation",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
@@ -473,7 +484,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":75,
+ "nextlayerid":76,
  "nextobjectid":17,
  "orientation":"orthogonal",
  "properties":[
@@ -1111,6 +1122,19 @@
          "spacing":0,
          "tilecount":3520,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":175
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":254
+                        }],
+                 "id":0
+                }],
          "tilewidth":32,
          "wangsets":[
                 {
