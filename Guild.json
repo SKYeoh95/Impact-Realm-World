@@ -189,7 +189,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/funhtml5games.com?embed=pacmanfps"
+                 "value":"https:\/\/www.google.com\/logos\/2010\/pacman10-i.html"
                 }],
          "type":"tilelayer",
          "visible":true,
