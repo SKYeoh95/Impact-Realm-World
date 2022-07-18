@@ -303,7 +303,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"outside.json#exit-from-guild"
+                 "value":"Outside.json#exit-from-guild"
                 }],
          "type":"tilelayer",
          "visible":true,
