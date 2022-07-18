@@ -275,7 +275,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"outside.json#exit-from-AMA"
+                 "value":"Outside.json#exit-from-AMA"
                 }],
          "type":"tilelayer",
          "visible":true,
