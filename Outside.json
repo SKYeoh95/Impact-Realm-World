@@ -62,11 +62,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioLoop",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/154.82.111.116.sslip.io\/dl2\/V-rGw78TOULGkG3ea_f-CqyRxGUYnglFaDgPI5M99jnjCjzdviud3Fyh0XHxRVf-XzKQJGOx1B3CqbJch9IMw4LjpXLBSLuXDen8ATOsvYcaPB-RgQm8-u9y3cJzMfrhwu6caEfCr-oTRDdejmdItefX0QCc-QZ0BbciZh6nR7KX5eXI-YkDKZcc4Qb-7JnLCtZ3Z2qeG6OWlavg07JaUZkjC6A1S5qQMc3aqdBMJAg-ehlOqhaKICA7VDyNSMqOn4OlF3Nzl1FRJpZL5FpXZZ8Wkq_Q6yIZtCnMwunpJIQDUDyJSvfnQd_rqWZE7OUPWLLctpLTlVY6nUBBMJxjtsWnTxNXI9PaL0nxRB8h6N5ySkJgTNE95TZHBHlfd3iW4fhPp5t5hbraq0hqNfVQv0OWfMo4YXfJ6ky_gozN86qps-3Kfpp84tJCqZGTcQvkns1rYiFYL8PpB2OtVpOOsN5UPQPbgDttOY5Dbnxwp9JN0rlE9k3ksQ_bGsxgq75vKIgupaI5j1z2RfV3gr7G5QIxKTTxTeKMB7_pL5Sg70GwBLKRV4mTBWbhLjwH90eRpLRwMF7p9k6y36z73R8G7OxAAK808uxXfdES-7yMHJeySxk9wCJkxLtgr6zJj8Y8fjRlcoNTmmlODN-rptKim9bkZ2P7K6PbwCD4kj7phgHoDOtcSZq2CeXuJiGGRusBUe2vTOVkS16Ohn4WkLguDNvhOjVOnYOYKl15UROUcBVgqiA1pIiWFT9haNGcHvH2HW5-Jh20UU6PSDEqgSPGIlqbEOpKX0OMr-sweVCkcC7pkEwp_zAIH_72UP7hG7EhdsJ7aQUyVHvoMkv5ILM-CC_DdS9sM9IM6-bwsiljOrtC8tXUMHM7ICaRZ5sS1Ivwofr6vs-6s03VrWW6QGZFxjJAhrLhuqrsEXgGAG-uP1UbVJ6gGIXtffKn70fqLN1fsx9Y3KBI9LSVM7PdRUUGeTCMr4hB_NdoZofFCOyGs98zLg0MoOYQkY96ceHBwuHlebbFiBF_YSkKzdvPokofbaAHuxl2BzlXCUM_glQjWoeutP1X69Nko46gcTSgQvqabhmg5amZ6DKIxKxAu3vw0pyGG7gLWiekFeZwzPrCq_KbGcpWnC7EAl1gMjZEoZLmsZV7fo5BYjKnZzlHOInGAU1OO186JRnnyev5bbsVL7rzlz9-I4M8lr9_Mc6_dZDT9fpies4aDPppkRn9gUvro-YxwTU5bxKbRnB3JeCRMxnWTbTl6OVky17rJq_MjdXc3WPGye4YXQd4CYyjTVoPguw-fg8aZyRD9H_d2SsdJ5Snn-gXVhM8yXwgdxJk41I_yp78tSaM_8pA4KWQwCs\/e3sMPt5_"
