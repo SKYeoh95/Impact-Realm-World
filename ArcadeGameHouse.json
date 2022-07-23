@@ -1254,6 +1254,23 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":250,
+                         "tileid":577
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":609
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":673
+                        }],
+                 "id":0
+                }],
          "tilewidth":32,
          "wangsets":[
                 {
@@ -1319,6 +1336,22 @@
                         {
                          "tileid":322,
                          "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":484,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":516,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":544,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":545,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
                         }]
                 }, 
                 {

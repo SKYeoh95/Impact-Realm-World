@@ -298,7 +298,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#exit-from-guild2"
+                 "value":"Outside.json#exit-from-guild2"
                 }],
          "type":"tilelayer",
          "visible":true,
