@@ -609,7 +609,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"guild.json#from-outside"
+                 "value":"Guild.json#from-outside"
                 }],
          "type":"tilelayer",
          "visible":true,
