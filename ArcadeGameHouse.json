@@ -2458,19 +2458,6 @@
          "tilecount":144,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":8108,
-         "image":"tilesets\/14_Basement_32x32.png",
-         "imageheight":1600,
-         "imagewidth":512,
-         "margin":0,
-         "name":"arcade",
-         "spacing":0,
-         "tilecount":800,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
