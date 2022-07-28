@@ -609,7 +609,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Guild.json#from-outside"
+                 "value":"\/@\/impactrealm\/guild-capital\/guild#from-outside"
                 }],
          "type":"tilelayer",
          "visible":true,
