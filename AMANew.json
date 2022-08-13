@@ -184,7 +184,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/outside-world#exit-from-AMA"
+                 "value":"\/@\/impactrealm\/guild-capital\/outsideworld#exit-from-AMA"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -522,7 +522,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/outside-world#exit-from-guild2"
+                 "value":"\/@\/impactrealm\/guild-capital\/outsideworld#exit-from-guild2"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/outside-world#from-office"
+                 "value":"\/@\/impactrealm\/guild-capital\/outsideworld#from-office"
                 }],
          "type":"tilelayer",
          "visible":true,
