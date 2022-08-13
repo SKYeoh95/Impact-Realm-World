@@ -540,7 +540,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ArcadeGameHouse.json#from-outside"
+                 "value":"\/@\/impactrealm\/guild-capital\/arcadehouse#from-outside"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -609,7 +609,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Guild.json#from-outside"
+                 "value":"\/@\/impactrealm\/guild-capital\/guild#from-outside"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -678,7 +678,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Guild2.json#entry-from-tree"
+                 "value":"\/@\/impactrealm\/guild-capital\/gamepartner#entry-from-tree"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -954,7 +954,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Office.json#from-outside"
+                 "value":"\/@\/impactrealm\/guild-capital\/office.json#from-outside"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1092,7 +1092,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"AMANew.json#entry-from-outside"
+                 "value":"\/@\/impactrealm\/guild-capital\/amanew#entry-from-outside"
                 }],
          "type":"tilelayer",
          "visible":true,
