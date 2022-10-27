@@ -954,7 +954,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"impactrealm.metadventu.re\/@\/office#from-outside"
+                 "value":"\/@\/office#from-outside"
                 }],
          "type":"tilelayer",
          "visible":true,
