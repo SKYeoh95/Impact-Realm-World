@@ -954,7 +954,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/office#from-outside"
+                 "value":"https:\/\/impactrealm.metadventu.re\/@\/impactrealm\/guild-capital\/office#from-outside"
                 }],
          "type":"tilelayer",
          "visible":true,
