@@ -195,7 +195,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/outsideworld#exit-from-portal"
+                 "value":"\/@\/outsideworld#exit-from-portal\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -264,7 +264,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/outsideworld#exit-from-portal2"
+                 "value":"\/@\/outsideworld#exit-from-portal2\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -540,7 +540,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/arcadehouse#from-outside"
+                 "value":"\/@\/arcadehouse#from-outside\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -609,7 +609,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/guild#from-outside"
+                 "value":"\/@\/guild#from-outside\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -678,7 +678,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/gamepartner#entry-from-tree"
+                 "value":"\/@\/gamepartner#entry-from-tree\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1092,7 +1092,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/amanew#entry-from-outside"
+                 "value":"\/@\/amanew#entry-from-outside\n"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -184,7 +184,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/outsideworld#exit-from-AMA"
+                 "value":"\/@\/outsideworld#exit-from-AMA\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -222,7 +222,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/amanew3#from-AMA1"
+                 "value":"\/@\/amanew3#from-AMA1\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -298,7 +298,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/amanew2#Entry-from-AMA1"
+                 "value":"\/@\/amanew2#Entry-from-AMA1\n"
                 }],
          "type":"tilelayer",
          "visible":true,

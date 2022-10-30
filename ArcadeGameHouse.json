@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/outsideworld#exit-from-Arcade"
+                 "value":"\/@\/outsideworld#exit-from-Arcade\n"
                 }],
          "type":"tilelayer",
          "visible":true,

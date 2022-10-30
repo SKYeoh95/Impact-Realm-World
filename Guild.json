@@ -186,7 +186,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/outsideworld#exit-from-guild"
+                 "value":"\/@\/outsideworld#exit-from-guild\n"
                 }],
          "type":"tilelayer",
          "visible":true,

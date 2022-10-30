@@ -426,7 +426,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/gamepartner#from-the-end"
+                 "value":"\/@\/gamepartner#from-the-end\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -522,7 +522,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/outsideworld#exit-from-guild2"
+                 "value":"\/@\/outsideworld#exit-from-guild2\n"
                 }],
          "type":"tilelayer",
          "visible":true,

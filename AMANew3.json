@@ -184,7 +184,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/impactrealm\/guild-capital\/amanew#from-AMA3"
+                 "value":"\/@\/amanew#from-AMA3\n"
                 }],
          "type":"tilelayer",
          "visible":true,
